@@ -159,8 +159,7 @@ export default function Page() {
                   VR Projects
                 </div>
                 <h2 className="text-3xl font-bold tracking-tighter sm:text-5xl">
-                I&#39;ve been crafting immersive AR/VR experiences for global companies. 
-                Each project pushes the boundaries of what&#39;s possible in virtual worlds. Here are some of my most impactful projects.
+                Building the future, one reality at a time
                 </h2>
                 <p className="text-muted-foreground md:text-xl/relaxed lg:text-base/relaxed xl:text-xl/relaxed">
                 I&#39;ve been crafting immersive AR/VR experiences for global companies. 
