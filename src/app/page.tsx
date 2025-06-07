@@ -120,10 +120,10 @@ export default function Page() {
                   College Projects
                 </div>
                 <h2 className="text-3xl font-bold tracking-tighter sm:text-5xl">
-                  I'm always in action.
+                  I&#39;m always in action.
                 </h2>
                 <p className="text-muted-foreground md:text-xl/relaxed lg:text-base/relaxed xl:text-xl/relaxed">
-                Over the course of my Computer Engineering degree, I've collaborated with peers to tackle real-world challenges. 
+                Over the course of my Computer Engineering degree, I&#39;ve collaborated with peers to tackle real-world challenges. 
                 Below are a few highlights from hackathons, client-sponsored projects, and team-led initiatives I completed during university.
                 </p>
               </div>
@@ -159,11 +159,12 @@ export default function Page() {
                   VR Projects
                 </div>
                 <h2 className="text-3xl font-bold tracking-tighter sm:text-5xl">
-                Building the future, one reality at a time
+                I&#39;ve been crafting immersive AR/VR experiences for global companies. 
+                Each project pushes the boundaries of what&#39;s possible in virtual worlds. Here are some of my most impactful projects.
                 </h2>
                 <p className="text-muted-foreground md:text-xl/relaxed lg:text-base/relaxed xl:text-xl/relaxed">
-                I've been crafting immersive AR/VR experiences for global companies. 
-                Each project pushes the boundaries of what's possible in virtual worlds. Here are some of my most impactful projects.
+                I&#39;ve been crafting immersive AR/VR experiences for global companies. 
+                Each project pushes the boundaries of what&#39;s possible in virtual worlds. Here are some of my most impactful projects.
                 </p>
               </div>
             </div>
